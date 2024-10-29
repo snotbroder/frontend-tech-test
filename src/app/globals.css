@@ -19,3 +19,17 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.icon {
+  color: blue;
+  width: 2rem;
+  height: 2rem;
+}
+
+.cookie-container {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 2rem;
+}
