@@ -3,9 +3,9 @@ import CookieCTA from "./CookieCTA";
 
 const Cookie = () => {
   return (
-    <div className="block bg-black p-4 rounded-xl w-64 dark:bg-white ">
+    <div className="block bg-black p-4 rounded-xl w-64 dark:bg-foreground ">
       <header className="flex justify-between pb-4">
-        <TbCookie className="text-white w-12 h-auto  m-0 dark:text-black" />
+        <TbCookie className="text-white w-12 h-auto  m-0 dark:text-background" />
         <button className="text-gray-400 flex place-self-">x</button>
       </header>
 
