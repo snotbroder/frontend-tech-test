@@ -3,7 +3,7 @@ import hike from "../images/hike.svg";
 const TailwindCard = () => {
   return (
     <section className="m-24 grid grid-cols-2 p-16 bg-blue-500 rounded-3xl">
-      <div class="flex flex-col justify-between text-blue">
+      <div className="flex flex-col justify-between text-blue">
         <h2 className="text-white text-4xl font-black uppercase">We prove the best seo and digital marketing on demand</h2>
         <p className="text-blue-200 text-lg -mt-16">All our content marketing service packages include a custom content strategy All our content marketing service packages include a custom content strategy.</p>
         <div className="mt-4">
